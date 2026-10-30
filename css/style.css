@@ -223,3 +223,14 @@ footer.main .bottom { border-top: 1px solid #2c3d31; margin-top: 30px; padding: 
 .pp-fine { font-size: 9px; color: #aaa; margin-top: 8px; line-height: 1.3; }
 .pp-x { position: absolute; top: 2px; right: 4px; background: none; border: 0; color: #ddd; font-size: 15px; cursor: pointer; padding: 2px 5px; z-index: 2; }
 .pp-x:hover { color: #999; }
+/* SpeedTest */
+.st .beta { font-size: 12px; background: #f5a623; color: #fff; padding: 1px 6px; border-radius: 3px; vertical-align: top; }
+.st-opts { display: flex; flex-wrap: wrap; gap: 14px; margin: 16px 0; }
+.st-opts label { display: flex; flex-direction: column; font-size: 13px; color: #555; gap: 4px; flex: 1; min-width: 220px; }
+.st-opts select { padding: 8px; font-size: 15px; border: 1px solid #c9d2cb; }
+.st-box { text-align: center; background: #f4f7f5; border: 1px solid #dfe6e1; padding: 20px 10px; margin: 10px 0 16px; }
+.st-gauge { width: 260px; max-width: 100%; height: auto; }
+.st-num b { font: 900 44px Montserrat, Arial, sans-serif; color: var(--green); }
+.st-phase { color: #555; margin: 6px 0 14px; min-height: 1.3em; }
+.st-res td { font-weight: bold; text-align: center; }
+.st-note { background: #fffbe6; border: 1px solid #f0e2a8; padding: 12px 14px; margin: 14px 0; }
