@@ -110,3 +110,9 @@
     out.innerHTML = '<div class="okbox">' + (r[v] || 'Please select a settlement.') + '</div>';
   };
 })();
+
+/* hello, console */
+try {
+  console.log("%cattelkom", "color:#1F8A2B;font:bold 26px Arial,sans-serif");
+  console.log("Irad's #1 ISP. If you are reading this, you are probably one of us.\nThe web department is hiring: hr@attelkom.net, subject \"console\".\nAnd no, the admin password is not admin. Not any more.");
+} catch (e) {}
