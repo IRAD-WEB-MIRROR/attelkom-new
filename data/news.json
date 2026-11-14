@@ -1,0 +1,67 @@
+[
+{
+"date": "2026-12-01",
+"id": "works-nurzhan-dec",
+"html": "<div class=\"card\" id=\"works-nurzhan-dec\"><img src=\"../img/hero_tower.jpg\" alt=\"\"><div class=\"in\"><div class=\"d\">01.12.2026</div><h3>On technical works on the Nurzhan network on 3 December</h3><p>Dear subscribers!</p><p>On 3 December from 02:00 to 04:30 technical works will be carried out on the network equipment of Nurzhan. Short interruptions of home internet and mobile internet are possible. Voice services and SMS will operate normally.</p><p>Attelkom apologises for the temporary inconvenience.</p></div></div>"
+},
+{
+"date": "2026-12-18",
+"id": "holiday-hours-2026",
+"html": "<div class=\"card\" id=\"holiday-hours-2026\"><img src=\"../img/hq.jpg\" alt=\"\"><div class=\"in\"><div class=\"d\">18.12.2026</div><h3>Service centres over Christmas and the New Year</h3><p>Attelkom service centres are closed on 25 December, 28 December and 1 January. On 24 and 31 December they work a shortened day. The contact centre works around the clock, and payments through Attelkom Pay and the terminals are accepted as usual.</p></div></div>"
+},
+{
+"date": "2026-12-29",
+"id": "new-year-sms",
+"html": "<div class=\"card\" id=\"new-year-sms\"><img src=\"../img/hero_4g.jpg\" alt=\"\"><div class=\"in\"><div class=\"d\">29.12.2026</div><h3>New Year's night: SMS may arrive with a delay</h3><p>On the night of 31 December the network carries many times the usual number of calls and messages. SMS sent between 23:30 and 01:00 may be delivered with a delay of up to an hour. Attelkom wishes all subscribers a happy New Year!</p></div></div>"
+},
+{
+"date": "2027-01-20",
+"id": "sms-bills",
+"html": "<div class=\"card\" id=\"sms-bills\"><img src=\"../img/hero_pay.jpg\" alt=\"\"><div class=\"in\"><div class=\"d\">20.01.2027</div><h3>Home internet bills by SMS from February</h3><p>From February the monthly bill for home internet will be sent by SMS to the number in your contract. Subscribers who wish to keep a paper bill can say so at any service centre or on the contact centre line. The bill can also be seen in the personal account.</p></div></div>"
+},
+{
+"date": "2027-02-10",
+"id": "works-gateway-feb",
+"html": "<div class=\"card\" id=\"works-gateway-feb\"><img src=\"../img/hero_backbone.jpg\" alt=\"\"><div class=\"in\"><div class=\"d\">10.02.2027</div><h3>On technical works on the international gateway on 16 February</h3><p>Dear subscribers!</p><p>On 16 February from 02:00 to 04:30 planned works will be carried out on the international gateway. Access to foreign resources may be slower or interrupted. Services inside Irad will operate normally.</p></div></div>"
+},
+{
+"date": "2027-03-04",
+"id": "holiday-hours-march",
+"html": "<div class=\"card\" id=\"holiday-hours-march\"><img src=\"../img/hero_tower.jpg\" alt=\"\"><div class=\"in\"><div class=\"d\">04.03.2027</div><h3>Service centres in March</h3><p>Attelkom service centres are closed on 8 March, 11 March (Irad Day) and 22 March (Nooruz). Attelkom congratulates the women of Irad on 8 March and all subscribers on Irad Day and Nooruz!</p></div></div>"
+},
+{
+"date": "2027-03-24",
+"id": "holiday-easter",
+"html": "<div class=\"card\" id=\"holiday-easter\"><img src=\"../img/hero_tower.jpg\" alt=\"\"><div class=\"in\"><div class=\"d\">24.03.2027</div><h3>Easter Monday: service centres closed on 29 March</h3><p>On 29 March service centres are closed. The contact centre and Attelkom Pay work as usual.</p></div></div>"
+},
+{
+"date": "2027-04-12",
+"id": "4g-highway-works",
+"html": "<div class=\"card\" id=\"4g-highway-works\"><img src=\"../img/hq.jpg\" alt=\"\"><div class=\"in\"><div class=\"d\">12.04.2027</div><h3>4G along the Trans-Talas Highway: construction begins</h3><p>Attelkom has begun building new base stations along the Trans-Talas Highway, as planned for 2027. During the works, short interruptions of mobile service are possible in the villages along the road. The start of 4G service will be announced separately.</p></div></div>"
+},
+{
+"date": "2027-05-24",
+"id": "jailoo-office",
+"html": "<div class=\"card\" id=\"jailoo-office\"><img src=\"../img/hero_pay.jpg\" alt=\"\"><div class=\"in\"><div class=\"d\">24.05.2027</div><h3>Mobile office at the pasture villages in June</h3><p>Every Saturday in June the Attelkom mobile office visits the villages at the foot of the summer pastures. Herders can replace a SIM card, register for Attelkom Pay and top up their balance before going up. Please bring your passport.</p></div></div>"
+},
+{
+"date": "2027-06-30",
+"id": "works-talas-jul",
+"html": "<div class=\"card\" id=\"works-talas-jul\"><img src=\"../img/hero_tower.jpg\" alt=\"\"><div class=\"in\"><div class=\"d\">30.06.2027</div><h3>On technical works in Talas on 6 July</h3><p>On 6 July from 02:00 to 04:30 technical works will be carried out on the network equipment in the central district of Talas. Short interruptions of mobile internet are possible. Voice services and SMS will operate normally.</p></div></div>"
+},
+{
+"date": "2027-08-11",
+"id": "holiday-hours-aug",
+"html": "<div class=\"card\" id=\"holiday-hours-aug\"><img src=\"../img/hq.jpg\" alt=\"\"><div class=\"in\"><div class=\"d\">11.08.2027</div><h3>Service centres on 16 and 24 August</h3><p>Attelkom service centres are closed on 16 August (Day of the Lost Tribes) and 24 August (St Janyl's Day).</p></div></div>"
+},
+{
+"date": "2027-08-27",
+"id": "schools-fibre",
+"html": "<div class=\"card\" id=\"schools-fibre\"><img src=\"../img/hero_pay.jpg\" alt=\"\"><div class=\"in\"><div class=\"d\">27.08.2027</div><h3>School Connection: more district schools on fibre</h3><p>Over the summer Attelkom installers connected more district schools to fibre under the School Connection Project with the Ministry of Education. The schools will be online from the first day of the school year.</p></div></div>"
+},
+{
+"date": "2027-10-08",
+"id": "works-gateway-oct",
+"html": "<div class=\"card\" id=\"works-gateway-oct\"><img src=\"../img/hero_backbone.jpg\" alt=\"\"><div class=\"in\"><div class=\"d\">08.10.2027</div><h3>On technical works on the international gateway on 14 October</h3><p>On 14 October from 02:00 to 04:30 planned works will be carried out on the international gateway. Access to foreign resources may be slower or interrupted. Services inside Irad will operate normally.</p></div></div>"
+}
+]
